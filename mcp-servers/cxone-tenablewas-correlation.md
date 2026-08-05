@@ -6,7 +6,7 @@ description: "Correlates results from Checkmarx with Tenable WAS via a JSON glue
 license: "MIT"
 tier: "contributed"
 tags: ["Checkmarx", "SAST", "WAS", "Tenable","CxOne"]
-integrations: ["Checkmarx","Tenable"]
+integrations: ["Tenable"]
 date_added: 2026-08-05
 contribution_agreement_date: 2026-08-05T00:00:00Z
 works_with_tenable_hexa_mcp: false

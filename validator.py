@@ -47,6 +47,8 @@ class Entry(BaseModel):
             "Tenable",
             "Tenable Hexa AI MCP",
             "Wiz",
+            "Checkmarx One",
+            "SecurityScorecard"
         ]
     ]
     date_added: date

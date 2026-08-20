@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-08-20
 name: "ThreatCorralling"
 author: "giraldomauricio"
 github_url: "https://github.com/giraldomauricio/threatcorraling"

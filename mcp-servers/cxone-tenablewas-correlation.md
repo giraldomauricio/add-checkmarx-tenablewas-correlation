@@ -6,14 +6,14 @@ description: "Correlates results from Checkmarx with Tenable WAS via a JSON glue
 license: "MIT"
 tier: "contributed"
 tags: ["Checkmarx", "SAST", "WAS", "Tenable","CxOne"]
-integrations: ["Tenable"]
+integrations: ["Tenable", "Checkmarx One", "SecurityScorecard"]
 date_added: 2026-08-05
 contribution_agreement_date: 2026-08-05T00:00:00Z
 works_with_tenable_hexa_mcp: false
 transport: "stdio"
 runtime: "python"
 auth_method: "api-key"
-compatible_clients: ["Claude Desktop", "Claude Code", "Checkmarx One", "SecurityScorecard", "Tenable"]
+compatible_clients: ["Claude Desktop", "Claude Code"]
 tools_exposed:
   - name: "get_checkmarx_sast_for_scoped_projects"
     description: "Get Checkmarx Projects selected from the JSON."
